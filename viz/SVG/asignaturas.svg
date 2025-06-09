@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 742.62 254.76">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #9f9fff;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke-width: 0px;
+      }
+
+      .cls-7 {
+        font-size: 15px;
+      }
+
+      .cls-7, .cls-8 {
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-3 {
+        fill: #dfdfdf;
+      }
+
+      .cls-4 {
+        fill: #00007f;
+      }
+
+      .cls-8 {
+        font-size: 14px;
+      }
+
+      .cls-9 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-10 {
+        font-family: Arial-BoldMT, Arial;
+        font-size: 17px;
+        font-weight: 700;
+      }
+
+      .cls-5 {
+        fill: #ff3c00;
+      }
+
+      .cls-6 {
+        fill: #ffd3ca;
+      }
+    </style>
+  </defs>
+  <g id="contenido">
+    <g>
+      <rect class="cls-3" width="742.62" height="254.76" rx="9.19" ry="9.19"/>
+      <text class="cls-10" transform="translate(109.6 219.59)"><tspan x="0" y="0">Ciclo básico</tspan><tspan x="30.23" y="20.4">I a IV</tspan></text>
+      <text class="cls-10" transform="translate(302.84 219.59)"><tspan x="0" y="0">Ciclo especializado</tspan><tspan x="50.54" y="20.4">V a VIII</tspan></text>
+      <text class="cls-10" transform="translate(549.95 219.59)"><tspan x="0" y="0">Ciclo profesional</tspan><tspan x="48.17" y="20.4">IXa X</tspan></text>
+      <text class="cls-7" transform="translate(40.33 237.4) rotate(-90)"><tspan x="0" y="0">Semestres</tspan></text>
+      <polygon class="cls-2" points="701.34 185.65 52.11 185.65 52.11 194.13 151.93 194.13 151.93 201.92 162.08 201.92 162.08 194.13 372.81 194.13 372.81 201.92 382.96 201.92 382.96 194.13 612.72 194.13 612.72 201.92 622.87 201.92 622.87 194.13 701.34 194.13 701.34 185.65"/>
+      <g>
+        <rect class="cls-6" x="273.32" y="130.31" width="209.66" height="48.73"/>
+        <rect class="cls-5" x="273.32" y="176.46" width="209.66" height="9.19"/>
+      </g>
+      <rect class="cls-1" x="274.02" y="45.91" width="209.66" height="49.07"/>
+      <rect class="cls-4" x="274.02" y="90.24" width="209.66" height="9.9"/>
+      <g>
+        <rect class="cls-6" x="491.68" y="142.5" width="209.66" height="37.99"/>
+        <rect class="cls-5" x="491.68" y="178.48" width="209.66" height="7.16"/>
+      </g>
+      <text class="cls-7" transform="translate(340.85 161.2)"><tspan x="0" y="0">Proyecto V</tspan></text>
+      <text class="cls-7" transform="translate(520.61 165.32)"><tspan x="0" y="0">Proyecto de</tspan><tspan class="cls-9" x="80.04" y="0"> </tspan><tspan x="83.94" y="0">Título I y II</tspan></text>
+      <text class="cls-8" transform="translate(282.15 75.33)"><tspan x="0" y="0">Seminario de Licenciatura I y II</tspan></text>
+    </g>
+  </g>
+</svg>

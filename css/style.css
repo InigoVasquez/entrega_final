@@ -265,3 +265,41 @@ div.otro{
     }
 }
 
+
+div.info{
+}
+
+div.info div.medio{
+    width:50%;
+    float:left;       
+}
+
+
+@media (orientation: portrait){
+    div.info div.medio{
+        width:100%
+    }
+}
+
+div.info div.completo{
+    width:100%;
+    clear:both;
+}
+
+
+div.completo img, div.medio img{
+    max-width: 100%
+}
+
+div.completo img, div.medio img, div.completo object, div.medio object{
+    width: 100%;
+}
+
+div.completo h1, div.medio h1{
+    margin-top: 0;
+    font-weight: bold
+}
+
+    
+
+
