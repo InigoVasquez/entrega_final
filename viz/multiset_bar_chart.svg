@@ -1,10 +1,12 @@
 <svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 610" width="1120" height="610">
     <title>Multi_set_bar_chart</title>
     <style>
+@import url('https://fonts.googleapis.com/css2?family=Nunito');
+
         g#viz {
             font-size: 14px;
             fill: #000000;
-            font-family: Helvetica, Arial, sans-serif;
+            font-family: "Nunito", sans-serif;
         }
 
         g#reprueban {
@@ -12,15 +14,15 @@
         }
 
         g#aprueban {
-            fill: #189af6;
+            fill: #e6332a;
         }
 
         g#industriales {
-            fill: #125389;
+            fill: #004c94;
         }
 
         g#sinmencion {
-            fill: #00c3ff;
+            fill: #ffd544;
         }
 
         .rayita {
